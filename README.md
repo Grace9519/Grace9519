@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=What&nbsp;a&nbsp;Grace&nbsp;day&color=_#FFFACD)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=What&nbsp;a&nbsp;Grace&nbsp;day&color=_FFFACD)
 
 ### Hi there 👋 안녕하세요 👋
 
