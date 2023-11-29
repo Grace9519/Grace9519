@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Cylinder)
+
 ### Hi there 👋 안녕하세요 👋
 
 - 🌱 I’m currently learning Python and Data Science
